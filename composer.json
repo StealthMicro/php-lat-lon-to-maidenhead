@@ -13,7 +13,8 @@
     "authors": [
         {
             "name": "Robert Mann",
-            "email": "robert@stealthmicro.com"
+            "email": "robert@stealthmicro.com",
+            "role": "Developer"
         }
     ],
     "require": {
